@@ -1,0 +1,5 @@
+{
+  "name": "VitalShield Backend & Monitoring System",
+  "description": "A sophisticated healthcare wearable monitoring system featuring a simulated FastAPI backend, medical alert engine with trend detection, and a guardian notification/acknowledgment workflow.",
+  "requestFramePermissions": []
+}
